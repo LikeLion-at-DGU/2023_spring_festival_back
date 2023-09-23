@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=2023년%20동국대학교%20봄%20축제%20사이트&fontSize=90&animation=fadeIn&fontAlignY=38&desc=다시%20봄&descAlignY=58&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=2023년%20동국대학교%20봄%20축제%20사이트&fontSize=60&animation=fadeIn&fontAlignY=38&desc=다시%20봄&descAlignY=58&descAlign=62)
 
 ## 🌠  About 다시 봄
 > 2023년 동국대학교 봄 축제, <백상대동제 : 다시, 봄> <br>
