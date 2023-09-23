@@ -61,6 +61,7 @@ python manage.py runserver
 📂 2023_spring_festival_back     #  repo root
 ┣  .gitignore
 ┣  README.md
+┣  requirements.txt
 ┣  📂 booth
 ┣  📂 core
 ┣  manage.py
@@ -71,7 +72,6 @@ python manage.py runserver
 ┃ ┣  settings.py
 ┃ ┣  urls.py
 ┃ ┣  wsgi.py
-┃ ┣  requirements.txt
 ```
 
 ## 🎯 Commit Convention
